@@ -1,0 +1,16 @@
+Katech intro (30 s) — credits
+
+Pictures (all public domain, no credit legally required; credited anyway):
+- "Drawing of a flying machine" by Leonardo da Vinci, public domain, via Wikimedia Commons
+  https://commons.wikimedia.org/wiki/File:Leonardo_da_vinci,_Drawing_of_a_flying_machine.jpg
+- "Earthrise" (Apollo 8, 24 Dec 1968) by NASA / Bill Anders, public domain, via Wikimedia Commons
+  https://commons.wikimedia.org/wiki/File:NASA-Apollo8-Dec24-Earthrise-b.jpg
+- "Celestial Fireworks" (Westerlund 2, Hubble 25th anniversary) by NASA, ESA, the Hubble Heritage Team (STScI/AURA), public domain, via Wikimedia Commons
+  https://commons.wikimedia.org/wiki/File:NASA_Unveils_Celestial_Fireworks_as_Official_Hubble_25th_Anniversary_Image.jpg
+
+Typefaces: DM Sans and JetBrains Mono (SIL Open Font License).
+Music and sound effects: composed in code and synthesised with ffmpeg for this video; no third-party audio.
+Rendered with fframes (Rust).
+
+Suggested line for the post caption:
+Images: Leonardo da Vinci; NASA / Bill Anders; NASA, ESA, Hubble Heritage Team — public domain via Wikimedia Commons.
